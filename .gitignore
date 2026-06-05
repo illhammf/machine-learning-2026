@@ -1,0 +1,15 @@
+DataSet Kelompok 1/
+*.csv
+*.xlsx
+*.zip
+*.rar
+*.pkl
+*.h5
+*.keras
+*.pt
+*.pth
+*.joblib
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+env/
