@@ -13,3 +13,6 @@ __pycache__/
 .ipynb_checkpoints/
 .venv/
 env/
+
+ML - 9/
+*.csv
